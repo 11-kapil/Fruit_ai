@@ -29,4 +29,4 @@ Fruit.ai is a health manager product designed to help users manage information a
 4. Run `node server.js` to start the backend server.
 
 ## Author
-Palak
+Kapil
